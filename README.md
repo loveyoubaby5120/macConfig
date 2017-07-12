@@ -35,7 +35,7 @@ brew install w3m
 # http://mama.indstate.edu/users/ice/tree/
 brew install tree
 
-# 文件传输工具
+# 文件传输工具 wormhole send || wormhole receive
 # https://github.com/warner/magic-wormhole
 brew install magic-wormhole
 
