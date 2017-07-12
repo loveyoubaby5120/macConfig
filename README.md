@@ -56,6 +56,10 @@ brew install gosuv
 # https://flow.org/en/docs/getting-started/
 brew install flow
 
+# shadowsocks 转换 http/https
+# https://www.irif.fr/~jch/software/polipo/
+brew install polipo
+
 # 快捷键提示工具
 # https://www.cheatsheetapp.com/CheatSheet/
 brew cask install cheatsheet
