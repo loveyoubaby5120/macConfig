@@ -68,6 +68,10 @@ brew cask install launchrocket
 # https://www.mediaatelier.com/Usage/
 brew cask install usage
 
+# 分屏工具
+# https://www.irradiatedsoftware.com/sizeup/
+brew cask install sizeup
+
 ```
 
 # <a name="NPM">NPM</a>
