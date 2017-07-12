@@ -56,7 +56,7 @@ brew install gosuv
 # https://flow.org/en/docs/getting-started/
 brew install flow
 
-# shadowsocks 转换 http/https
+# shadowsocks 转换 http/https polipo socksParentProxy=localhost:1080
 # https://www.irif.fr/~jch/software/polipo/
 brew install polipo
 
