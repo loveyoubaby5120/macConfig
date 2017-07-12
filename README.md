@@ -2,7 +2,7 @@
     * [HOMEBREW](#HOMEBREW)
     * [NPM](#NPM)
 
-# <span id="HOMEBREW">HOMEBREW</span>
+# <a name="HOMEBREW">HOMEBREW</a>
 
 ```bash
 # 文件夹跳转  j ***
@@ -56,7 +56,7 @@ brew install flow
 
 ```
 
-# <span id="NPM">NPM</span>
+# <a name="NPM">NPM</a>
 
 ```bash
 # 活动监视器 vtop
