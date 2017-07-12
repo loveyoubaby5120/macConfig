@@ -6,7 +6,8 @@
 
 ```bash
 # 文件夹跳转  j ***
-brew install  autojump
+# https://github.com/wting/autojump
+brew install autojump
 
 # VIM  vim *.*
 brew install vim
