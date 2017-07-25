@@ -14,6 +14,10 @@ brew install elasticsearch
 # https://www.elastic.co/products/kibana
 brew install kibana
 
+# Logstash是一个开放源码的服务器端数据处理流水线，可同时从众多来源获取数据，并将其转换为您最喜爱的“收藏”（我们的自然是弹性搜索）。  logstash
+# https://www.elastic.co/products/logstash
+brew install logstash
+
 # 文件夹跳转  j ***
 # https://github.com/wting/autojump
 brew install autojump
