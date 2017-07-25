@@ -6,6 +6,14 @@
 # <a name="HOMEBREW">HOMEBREW</a>
 
 ```bash
+# 搜索引擎  elasticsearch
+# https://www.elastic.co/products/elasticsearch
+brew install elasticsearch
+
+# 搜索引擎管理界面  kibana
+# https://www.elastic.co/products/kibana
+brew install kibana
+
 # 文件夹跳转  j ***
 # https://github.com/wting/autojump
 brew install autojump
