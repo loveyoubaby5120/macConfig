@@ -1,7 +1,8 @@
 * TERMINAL
     * [HOMEBREW](#HOMEBREW)
     * [NPM](#NPM)
-    * [VIM](#VIM)
+    * [VIM CONFIG](#VIMCONFIG)
+    * [VIM KEYBOARD SHORTCUTS](#VIMKEYBOARDSHORTCUTS)
 
 # <a name="HOMEBREW">HOMEBREW</a>
 
@@ -99,7 +100,7 @@ npm install -g vtop
 
 ```
 
-# <a name="VIM">VIM</a>
+# <a name="VIMCONFIG">VIMCONFIG</a>
 ```bash
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -482,4 +483,9 @@ nnoremap <leader>u :GundoToggle<CR>
 " vim-json settings
 nmap <leader>jt :%!python -m json.tool<CR>
 
+```
+
+#</a name="VIMKEYBOARDSHORTCUTS">VIMKEYBOARDSHORTCUTS</a>
+```bash
+    z + R   (依次按无需同时按) 
 ```
