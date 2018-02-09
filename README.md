@@ -485,7 +485,7 @@ nmap <leader>jt :%!python -m json.tool<CR>
 
 ```
 
-#<a name="VIMKEYBOARDSHORTCUTS">VIM KEYBOARD SHORTCUTS</a>
+# <a name="VIMKEYBOARDSHORTCUTS">VIM KEYBOARD SHORTCUTS</a>
 ```bash
     z + R   (依次按无需同时按) 
 ```
