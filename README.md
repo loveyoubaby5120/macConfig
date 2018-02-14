@@ -73,6 +73,10 @@ brew install flow
 # https://www.irif.fr/~jch/software/polipo/
 brew install polipo
 
+# json 查询工具
+# https://github.com/stedolan/jq
+brew install jq
+
 # 快捷键提示工具
 # https://www.cheatsheetapp.com/CheatSheet/
 brew cask install cheatsheet
