@@ -102,6 +102,10 @@ brew cask install sizeup
 # https://github.com/MrRio/vtop
 npm install -g vtop
 
+# 可视化依赖关系图 dependency-cruiser
+# https://github.com/sverweij/dependency-cruiser
+npm install dependency-cruiser
+
 ```
 
 # <a name="VIMCONFIG">VIMCONFIG</a>
