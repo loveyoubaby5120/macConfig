@@ -106,6 +106,10 @@ npm install -g vtop
 # https://github.com/sverweij/dependency-cruiser
 npm install dependency-cruiser
 
+# 命令行搜索提示
+# https://github.com/zthxxx/zsh-history-enquirer
+npm i -g zsh-history-enquirer
+
 ```
 
 # <a name="VIMCONFIG">VIMCONFIG</a>
